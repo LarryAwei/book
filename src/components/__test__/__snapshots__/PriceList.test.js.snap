@@ -1,0 +1,176 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test priceList should render a component matching the snapshot 1`] = `
+<ul
+  className="list-group list-group-flush"
+>
+  <li
+    className="list-group-item d-flex justify-content-between aligh-items-center"
+    key="1"
+  >
+    <span
+      className="col-1 badge badge-primary"
+    >
+      <Ionicon
+        beat={false}
+        className="rounded-circle"
+        color="#000000"
+        fontSize="30px"
+        icon="ios-plane"
+        rotate={false}
+        shake={false}
+        style={
+          Object {
+            "backgroundColor": "#007bff",
+            "color": "#fff",
+            "padding": "5px",
+          }
+        }
+      />
+    </span>
+    <span
+      className="col-5"
+    >
+      旅游
+    </span>
+    <span
+      className="col-2 font-weight-bold"
+    >
+      -
+       $
+      200
+    </span>
+    <span
+      className="col-2"
+    >
+      2019-10-20
+    </span>
+    <a
+      className="col-1"
+      onClick={[Function]}
+    >
+      <Ionicon
+        beat={false}
+        className="rounded-circle"
+        color="#000000"
+        fontSize="30px"
+        icon="ios-create-outline"
+        rotate={false}
+        shake={false}
+        style={
+          Object {
+            "backgroundColor": "green",
+            "color": "#fff",
+            "padding": "5px",
+          }
+        }
+      />
+    </a>
+    <a
+      className="col-1"
+      onClick={[Function]}
+    >
+      <Ionicon
+        beat={false}
+        className="rounded-circle"
+        color="#000000"
+        fontSize="30px"
+        icon="ios-plane"
+        rotate={false}
+        shake={false}
+        style={
+          Object {
+            "backgroundColor": "red",
+            "color": "#fff",
+            "padding": "5px",
+          }
+        }
+      />
+    </a>
+  </li>
+  <li
+    className="list-group-item d-flex justify-content-between aligh-items-center"
+    key="2"
+  >
+    <span
+      className="col-1 badge badge-primary"
+    >
+      <Ionicon
+        beat={false}
+        className="rounded-circle"
+        color="#000000"
+        fontSize="30px"
+        icon="ios-plane"
+        rotate={false}
+        shake={false}
+        style={
+          Object {
+            "backgroundColor": "#007bff",
+            "color": "#fff",
+            "padding": "5px",
+          }
+        }
+      />
+    </span>
+    <span
+      className="col-5"
+    >
+      充值
+    </span>
+    <span
+      className="col-2 font-weight-bold"
+    >
+      +
+       $
+      100
+    </span>
+    <span
+      className="col-2"
+    >
+      2019-12-20
+    </span>
+    <a
+      className="col-1"
+      onClick={[Function]}
+    >
+      <Ionicon
+        beat={false}
+        className="rounded-circle"
+        color="#000000"
+        fontSize="30px"
+        icon="ios-create-outline"
+        rotate={false}
+        shake={false}
+        style={
+          Object {
+            "backgroundColor": "green",
+            "color": "#fff",
+            "padding": "5px",
+          }
+        }
+      />
+    </a>
+    <a
+      className="col-1"
+      onClick={[Function]}
+    >
+      <Ionicon
+        beat={false}
+        className="rounded-circle"
+        color="#000000"
+        fontSize="30px"
+        icon="ios-plane"
+        rotate={false}
+        shake={false}
+        style={
+          Object {
+            "backgroundColor": "red",
+            "color": "#fff",
+            "padding": "5px",
+          }
+        }
+      />
+    </a>
+  </li>
+</ul>
+`;
